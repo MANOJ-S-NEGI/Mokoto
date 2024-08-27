@@ -1,0 +1,30 @@
+#!/bin/bash
+
+# Print a message
+echo "Hello, World!"
+
+# List files in the current directory
+ls -la
+
+# Check Node.js version
+node --version
+
+# Run a specific command (for example, start the DBank project)
+cd ~/ic-projects/DBank
+npm start
+#!/bin/bash
+
+# Print a message
+echo "Hello, World!"
+
+# List files in the current directory
+ls -la
+
+# Check Node.js version
+node --version
+
+# Run a specific command (for example, start the DBank project)
+cd ~/ic-projects/DBank
+npm start
+
+
